@@ -24,7 +24,7 @@ I love python, python saved my life
 
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmatz&layout=compact&&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmatz&layout=compact&show_icons=true&theme=transparent" />
 
 
 
