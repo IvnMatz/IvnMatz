@@ -21,10 +21,12 @@ I love python, python saved my life
 <br>
 
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmatz&layout=compact&show_icons=true&theme=dark" />
+
 
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmatz&layout=compact&show_icons=true&theme=transparent" />
+ 
 
 
 
