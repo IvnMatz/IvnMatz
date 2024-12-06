@@ -1,11 +1,10 @@
 
 <img src="https://raw.githubusercontent.com/IvnMatz/IvnMatz/refs/heads/main/gatopapas.gif" align="left">
 <div align="center">
-  
+
 **Hello guys**
 <br>
 I love python, python saved my life
-
 
 ![Static Badge](https://img.shields.io/badge/python-blue?style=flat-square&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
@@ -19,10 +18,14 @@ I love python, python saved my life
 ![Static Badge](https://img.shields.io/badge/nodeJS-darkgreen?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-blue?style=flat-square&logo=react&logoColor=white)
+<br>
 
 
 
 </div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivnmatz&layout=compact&&hide_border=true&show_icons=true" />
+
 
 
 <!--
